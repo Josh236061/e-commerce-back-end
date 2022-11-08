@@ -35,5 +35,5 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## URL(s):
 
-GitHub Repo URL:
+GitHub Repo URL: https://github.com/Josh236061/e-commerce-back-end
 Walkthrough Video Link:
