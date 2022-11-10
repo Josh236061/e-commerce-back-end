@@ -43,6 +43,7 @@ router.get('/:id', async (req, res) => { // Finds a single tag by its ID and inc
 
 router.post('/', async (req, res) => { // Creates a new tag
   try {
+    console.log(req.body);
     const d = await Tag.create(req.body);
     res.status(200).json(d);
   } catch (error) {

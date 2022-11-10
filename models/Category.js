@@ -18,7 +18,7 @@ Category.init(
       allowNull: false,
       validate: {
         notNull: true
-      }
+    }
     }
   },
   {
